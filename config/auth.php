@@ -40,6 +40,11 @@ return [
             'driver' => 'session',
             'provider' => 'users',
         ],
+        'api' => [
+            'driver' => 'custom',  // Usando o driver 'custom'
+            'provider' => 'users',
+            'hash' => false,  // Não use hashing para o token, já que estamos usando um token simples
+        ],
     ],
 
     /*

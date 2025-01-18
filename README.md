@@ -94,7 +94,7 @@ Autenticação: Apenas administradores podem acessar este endpoint.
 
 4. Deletar Usuário
 
-Método: DELETEURL: http://127.0.0.1:8000/api/users/{id}
+Método: DELETE  URL: http://127.0.0.1:8000/api/users/{id}
 Descrição: Remove um usuário do sistema.Requisição:
 
 Substitua {id} pelo identificador único do usuário.

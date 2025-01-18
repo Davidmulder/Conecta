@@ -27,6 +27,8 @@ Desejável que utilize Laravél ou CodeIgniter 3.
 ## Introdução
 
 ```sh
+Feito Laravel Versão 11  Mysql
+
  Este documento descreve as funcionalidades da API do sistema, com detalhes sobre as rotas disponíveis para manipulação de usuários e autenticação. Cada rota apresenta a método HTTP utilizado, o endpoint e a descrição de sua funcionalidade.
 
  

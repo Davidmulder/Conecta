@@ -179,6 +179,8 @@ tipo: Tipo do usuário (admin ou user).
 remember_token: Token de autenticação para sessões ativas.
 
 created_at e updated_at: Datas de criação e atualização do registro.
+
+AVISO : O banco de dados esta  na pasta DB NO GITHUB
  
 ```
 
